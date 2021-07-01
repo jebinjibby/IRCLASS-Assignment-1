@@ -30,7 +30,7 @@ class MainClass {
     Console.WriteLine("Area Moment of Inertia of the angle section:");
     double[] MI = MICal(Dim[0], Dim[1], Dim[2], Dim[3]);
     Console.WriteLine(MI[0]);
-    Console.WriteLine("\nThank you");
+    Console.WriteLine("\n\nThank you");
 
   }
 
